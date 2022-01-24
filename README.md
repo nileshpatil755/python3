@@ -19,7 +19,7 @@ python3 get_key.py
 
 What it does? 
 it returns value from nested json object for perticular key.
-sample json object user in script is: 
+sample json object used in script: 
 JSON = {"a":{"b":{"c":"d"}},"x":{"y":{"z":"a"}}}
 
 How to run ?
